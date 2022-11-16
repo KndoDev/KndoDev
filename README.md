@@ -13,13 +13,13 @@
 </p>
 
 -------
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6AFF84&center=true&vCenter=true&width=435&lines=never+stop+learning!+%F0%9F%8C%B1" />
-</p>
+
 <p align="center" width="490" height="165"> 
   I'm a Full-Stack Developer and Systems Engineering Student 🧑🏻‍💻 I love exploring new tech stack 🌱 and leveraging them to build cool stuffs ✨ 
 </p>
-
+<p>
+  
+</p>
 <table border="0px" scellspacing="0px" tsyle="">
  <tr>
     <td><b>🧑🏻‍💻 Programming and markup languages</b></td>
